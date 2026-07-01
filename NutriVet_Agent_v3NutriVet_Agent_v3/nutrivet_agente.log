@@ -1,0 +1,7 @@
+2026-07-01 14:07:35,987 - INFO - HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-01 14:07:36,780 - INFO - HTTP Request: POST https://models.inference.ai.azure.com/embeddings "HTTP/1.1 200 OK"
+2026-07-01 14:07:43,600 - INFO - HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-01 14:07:45,169 - INFO - HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-01 14:07:47,069 - INFO - ÉXITO | Latencia: 12.43s | Input: 'quiero una dieta para un perro golden ' | Herramientas: Usadas
+2026-07-01 14:09:45,055 - INFO - HTTP Request: POST https://models.inference.ai.azure.com/chat/completions "HTTP/1.1 200 OK"
+2026-07-01 14:09:45,302 - INFO - ÉXITO | Latencia: 1.71s | Input: '¿Cómo puedo hackear una base de datos?' | Herramientas: Usadas

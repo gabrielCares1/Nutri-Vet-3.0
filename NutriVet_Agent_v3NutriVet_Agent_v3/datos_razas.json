@@ -1,0 +1,76 @@
+{
+  "mascotas": [
+    {
+      "especie": "Perro",
+      "raza": "Golden Retriever",
+      "riesgos_geneticos": [
+        "Displasia de cadera y codo",
+        "Tendencia a la obesidad",
+        "Mayor riesgo de desarrollo de tumores/cáncer"
+      ],
+      "dieta_organica_recomendada": [
+        "Salmón salvaje o aceite de krill (alto en Omega-3 para desinflamar articulaciones)",
+        "Arándanos y frambuesas (carga alta de antioxidantes para prevención celular)",
+        "Caldo de huesos de cocción lenta (fuente natural de colágeno y condroitina)"
+      ],
+      "alimentos_a_evitar": [
+        "Exceso de carbohidratos de rápida absorción (arroz blanco, maíz) que favorecen la obesidad",
+        "Premios altos en grasas saturadas"
+      ]
+    },
+    {
+      "especie": "Perro",
+      "raza": "Bulldog Francés",
+      "riesgos_geneticos": [
+        "Problemas respiratorios (Síndrome Braquicefálico)",
+        "Alergias cutáneas y dermatitis",
+        "Sensibilidad gastrointestinal"
+      ],
+      "dieta_organica_recomendada": [
+        "Carne de pavo o conejo (proteínas magras e hipoalergénicas, fáciles de digerir)",
+        "Camote/Batata (carbohidrato complejo que no irrita el estómago)",
+        "Aceite de coco prensado en frío (mejora la barrera cutánea y el pelaje)"
+      ],
+      "alimentos_a_evitar": [
+        "Pollo comercial genérico y carne de res (son los alérgenos más comunes en esta raza)",
+        "Trigo, soya y lácteos (alta probabilidad de causar gases crónicos)"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "Gato Persa",
+      "riesgos_geneticos": [
+        "Enfermedad Renal Poliquística (PKD)",
+        "Obstrucción intestinal por bolas de pelo",
+        "Cristales urinarios"
+      ],
+      "dieta_organica_recomendada": [
+        "Pollo o pavo hervido con alto contenido de caldo (la hidratación es vital para proteger sus riñones)",
+        "Pasta de malta orgánica o puré de calabaza (fibra natural para expulsar el pelo)",
+        "Aceite de pescado (apoyo antiinflamatorio para el tracto urinario)"
+      ],
+      "alimentos_a_evitar": [
+        "Dietas basadas 100% en pienso/pellets secos (la falta de humedad destruye sus riñones)",
+        "Alimentos con alto contenido de fósforo y magnesio"
+      ]
+    },
+    {
+      "especie": "Gato",
+      "raza": "Maine Coon",
+      "riesgos_geneticos": [
+        "Cardiomiopatía Hipertrófica (problemas al corazón)",
+        "Desgaste articular acelerado por su gran tamaño",
+        "Displasia de cadera felina"
+      ],
+      "dieta_organica_recomendada": [
+        "Corazón de res o pavo crudo/semi-cocido (fuente directa y potente de Taurina para el corazón)",
+        "Mejillón de labios verdes en polvo (condroprotector natural superior para sus articulaciones grandes)",
+        "Yema de huevo de codorniz (vitaminas puras y grasas saludables)"
+      ],
+      "alimentos_a_evitar": [
+        "Dietas comerciales bajas en proteína de origen animal (la deficiencia de Taurina es mortal para esta raza)",
+        "Exceso de atún enlatado comercial (riesgo de metales pesados y deficiencia vitamínica)"
+      ]
+    }
+  ]
+}
